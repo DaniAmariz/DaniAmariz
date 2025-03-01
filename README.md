@@ -1,17 +1,23 @@
-# 👋 Hello helloo, I'm Dani  
-📊 Systems Engineering Student | 📈 Data Analyst in Progress | 🎨 UI/UX Enthusiast  
+#  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+helloo,+I'm+Dani!" />
+</p>
+
+📝 Systems Engineering Student | 📈 Data Analyst in Progress | 🎨 UI/UX Enthusiast  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif?cid=790b76117iufyl1l62r0m5ghwabp4ai27bvzvbe5h1964gsl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="400"/>
 </p>
+
+<h4 align="center">🧩 Love <i>watching series, painting, and drawing when I can</i></h4>
+
+
 
 ---
 
-## 🚀 About Me  
+## 🌟 About Me  
 - 🎯 Passionate about **data analysis and project management**  
 - 🎨 Interested in **UI/UX design to enhance user experiences**  
-- 📊 I enjoy **working with structured data and optimizing decision-making processes**  
-- ✏️ Love **watching series, painting, and drawing when I can**  
+- 📊 I enjoy **working with structured data and optimizing decision-making processes**   
 - 📚 Organization and discipline are key in everything I do  
 - 🔢 Mathematics? **Yes, please!**  
 - 🗣️ English level: **B1**  
